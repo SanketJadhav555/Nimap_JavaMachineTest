@@ -1,4 +1,4 @@
-# Nimap Company - Machine Test: Category and Product CRUD Operations with Pagination
+# Nimap Company - Java Machine Test: Category and Product CRUD Operations with Pagination
 
 This repository contains the Spring Boot implementation for Category and Product CRUD operations with pagination and a one-to-many relationship between `Category` and `Product` entities.
 
